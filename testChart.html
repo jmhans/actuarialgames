@@ -1,0 +1,61 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+  <title>
+    Google Visualization API Sample
+  </title>
+  <!--
+  One script tag loads all the required libraries! Do not specify any chart types in the
+  autoload statement.
+-->
+<script type="text/javascript"
+      src='https://www.google.com/jsapi?autoload={
+        "modules":[{
+        "name":"visualization",
+        "version":"1"
+        }]
+      }'></script>
+  <script type="text/javascript">
+
+  google.load("visualization", "1.1", {packages:["corechart"]});
+  // 
+    google.setOnLoadCallback(loadEditor);
+ 
+    function loadEditor() {
+      // Create the chart to edit.
+
+	  var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1fJ99jYOu8xcIRVCitArwF6pUmbBeBLRLeUdxEtS2J80/gviz/tq?gid=1112701056');
+		query.setQuery('SELECT A, SUM(C), D GROUP BY A, D');
+		query.send(handleQueryResponse);
+  
+    }
+	
+	function handleQueryResponse(response) {
+		
+if (response.isError()) {
+    alert('Error in query: ' + response.getMessage() + ' ' + response.getDetailedMessage());
+    return;
+  }
+
+		var data = response.getDataTable();
+            var view = new google.visualization.DataView(data);
+      view.setColumns([0, 1,
+                       { sourceColumn: 2,
+                         type: "string",
+                         role: "annotation" }]);
+		var options = { height: 400,
+						title: "Likelihood of total Stanley Cup goals scored", 
+						bar: {groupWidth: "95%"}, 
+						legend: {position: "none"}};
+	  var chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));
+      chart.draw(view, options);
+	  }
+
+  </script>
+</head>
+<body>
+  <div id="chart_div" style="width: 1200px;"></div>
+</body>
+</html>
