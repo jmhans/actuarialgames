@@ -47,9 +47,7 @@
 
   <div ng-view></div>
 
-  <!-- In production use:
-  <script src="//ajax.googleapis.com/ajax/libs/angularjs/x.x.x/angular.min.js"></script>
-  -->
+  
   <script src="bower_components/angular/angular.js"></script>
   <script src="bower_components/angular-route/angular-route.js"></script>
   <script src="js/app.js"></script>
@@ -58,10 +56,7 @@
   <script src="components/propbets/mlb/mlb.js"></script>
   <script src="components/fantasy/ffb.js"></script>
   <script src="components/big_birthday_date/birthday.js"></script>
-  <!--  <script src="components/version/version.js"></script>
-  <script src="components/version/version-directive.js"></script>
-  <script src="components/version/interpolate-filter.js"></script>-->
-
+  
 
 </body>
 </html>

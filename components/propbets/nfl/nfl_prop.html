@@ -1,0 +1,62 @@
+
+<div class="row">
+    <div id="WinsSpan" class="col-md-2">
+        <h3>Replays</h3>
+        <br /><h4>Vikings:</h4><span id="vikingsSpan">Vikings:</span>
+        <br /><h4>Packers:</h4><span id="packersSpan">Packers:</span>
+    </div>
+
+
+    <div id="WinsSpan" class="col-md-4 dt-responsive">
+        <h3>Packers vs. Vikings + 2.5</h3>
+        <img src="data/VikesPackersWins.png" width="100%">
+    </div>
+    <div id="rbPtsSpan" class="col-md-6">
+        <h3>RB Fantasy Points</h3>
+        <div id="rbPtsSummary"></div>
+        <table id="rbPtsTbl" class="display nowrap">
+            <thead>
+                <tr>
+                    <th data-priority="1">PLAYER, TEAM POS</th>
+                    <th>RuYD</th>
+                    <th>RuTD</th>
+                    <th>ReYD</th>
+                    <th>ReTD</th>
+                    <th>Fum</th>
+                    <th data-priority="2">Fantasy Pts</th>
+                </tr>
+            </thead>
+            <tfoot>
+                <tr>
+                    <th>PLAYER, TEAM POS</th>
+                    <th>RuYD</th>
+                    <th>RuTD</th>
+                    <th>ReYD</th>
+                    <th>ReTD</th>
+                    <th>Fum</th>
+                    <th>Fantasy Pts</th>
+
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+</div>
+
+<div id="formSpan">
+    <button name="adminOptions" onclick="showAdminForm()">Admin Options</button>
+
+
+    <form id="adminForm">
+        Input week number: <input type="text" name="weekNumberInput"><button type="button" name="gameFindButton" onclick="findallgames(this.form.weekNumberInput.value)">FindAllGames</button>
+        <br />
+        <!--Input game number: <input type="text" name="gameNumberInput"><button type="button" name="gameNumberButton" onclick="getReplaysInGame(this.form.gameNumberInput.value)">Find This Game</button>
+        <br />
+        Input team name: <input type="text" name="teamNameInput"><button type="button" name="teamFindButton" onclick="findteamReplays(this.form.teamNameInput.value)">Find Team Replays</button>-->
+        <span id="txtHint"></span>
+        <span id="txtHint2"></span>
+        <br />
+        <button type="button" name="hideFormButton" onclick="startup()">Reload Page</button>
+
+    </form>
+</div>
+

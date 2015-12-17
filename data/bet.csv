@@ -1,0 +1,10 @@
+Bet Description,Justin,Andy,Current Leader,Justin Proj,Andy Proj,Winner,Payment Status
+MIN WLDiff > 0.5,11,0.5,Justin,,,Justin,Paid
+MIL WLDiff < 0.5,0.5,-1,Justin,,,Justin,Paid
+Maximum Rally,16,11,Justin,,,Justin,Paid
+Most HBPs,81,95,Andy,81 ,95 ,Andy,
+Most Ks,1264,1293,Andy,1264 ,1293 ,Andy,
+MIN WLDiff > 6.5,11,6.5,Justin,,,Justin,Paid
+Longest Game,12,13,Andy,,,Andy,
+Tie Break 1 - Win?,TRUE,TRUE,,,,,
+Tie Break 2 - Plate Appearances,47,56,,,,,

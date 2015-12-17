@@ -1,0 +1,170 @@
+SLOT,"PLAYER, TEAM POS",ACQ,TEAM,Translated Team,Pickup,Translated Name,Last Year Cost,ADV,2014 Keeper Cost
+QB,"Ben Roethlisberger, Pit QB",Trade,BOOMGOES THEDYNAMITE (2-11),BOOMGOES THEDYNAMITE,TRUE,"Ben Roethlisberger, Pit", $5.00 , $8.00 , $7.00 
+RB,"Joique Bell, Det RB",Draft,BOOMGOES THEDYNAMITE (2-11),BOOMGOES THEDYNAMITE,FALSE,"Joique Bell, Det", $20.00 , $1.00 , $11.00 
+RB,"Tre Mason, StL RB",Trade,BOOMGOES THEDYNAMITE (2-11),BOOMGOES THEDYNAMITE,TRUE,"Tre Mason, StL", $-   , $3.20 , $2.00 
+WR,"Sammy Watkins, Buf WR",Draft,BOOMGOES THEDYNAMITE (2-11),BOOMGOES THEDYNAMITE,FALSE,"Sammy Watkins, Buf", $9.00 , $14.30 , $12.00 
+WR,"DeAndre Hopkins, Hou WR",Trade,BOOMGOES THEDYNAMITE (2-11),BOOMGOES THEDYNAMITE,FALSE,"DeAndre Hopkins, Hou", $7.00 , $21.60 , $14.00 
+TE,"Delanie Walker, Ten TE",Free Agency,BOOMGOES THEDYNAMITE (2-11),BOOMGOES THEDYNAMITE,TRUE,"Delanie Walker, Ten", $2.00 , $1.20 , $2.00 
+FLEX,"Mike Wallace, Min WR",Draft,BOOMGOES THEDYNAMITE (2-11),BOOMGOES THEDYNAMITE,FALSE,"Mike Wallace, Min", $10.00 , $6.40 , $8.00 
+D/ST,Chargers D/ST D/ST,Free Agency,BOOMGOES THEDYNAMITE (2-11),BOOMGOES THEDYNAMITE,TRUE,Chargers D/ST, $-   , $1.00 , $1.00 
+K,"Dan Bailey, Dal K",Draft,BOOMGOES THEDYNAMITE (2-11),BOOMGOES THEDYNAMITE,FALSE,"Dan Bailey, Dal", $1.00 , $1.30 , $1.00 
+Bench,"Michael Crabtree, Oak WR",Draft,BOOMGOES THEDYNAMITE (2-11),BOOMGOES THEDYNAMITE,FALSE,"Michael Crabtree, Oak", $6.00 , $-   , $3.00 
+Bench,"Frank Gore, Ind RB",Draft,BOOMGOES THEDYNAMITE (2-11),BOOMGOES THEDYNAMITE,FALSE,"Frank Gore, Ind", $23.00 , $18.20 , $21.00 
+Bench,"Trent Richardson, Oak RB",Draft,BOOMGOES THEDYNAMITE (2-11),BOOMGOES THEDYNAMITE,FALSE,"Trent Richardson, Oak", $9.00 , $1.00 , $5.00 
+Bench,"Teddy Bridgewater, Min QB",Free Agency,BOOMGOES THEDYNAMITE (2-11),BOOMGOES THEDYNAMITE,TRUE,"Teddy Bridgewater, Min", $3.00 , $1.80 , $2.00 
+Bench,"Terrance West, Cle RB",Free Agency,BOOMGOES THEDYNAMITE (2-11),BOOMGOES THEDYNAMITE,TRUE,"Terrance West, Cle", $6.00 , $1.40 , $4.00 
+Bench,"Jordan Reed, Wsh TE",Free Agency,BOOMGOES THEDYNAMITE (2-11),BOOMGOES THEDYNAMITE,TRUE,"Jordan Reed, Wsh", $-   , $-   , $-   
+IR,"Nick Foles, StL QB",Draft,BOOMGOES THEDYNAMITE (2-11),BOOMGOES THEDYNAMITE,FALSE,"Nick Foles, StL", $8.00 , $-   , $4.00 
+IR,,,BOOMGOES THEDYNAMITE (2-11),BOOMGOES THEDYNAMITE,FALSE,,  , $1.00 , $1.00 
+QB,"Tom Brady, NE QB",Free Agency,THE STACHE (4-9),THE STACHE,TRUE,"Tom Brady, NE", $-   , $6.40 , $3.00 
+RB,"Mark Ingram, NO RB",Trade,THE STACHE (4-9),THE STACHE,FALSE,"Mark Ingram, NO", $1.00 , $27.70 , $14.00 
+RB,"Jonathan Stewart, Car RB",Free Agency,THE STACHE (4-9),THE STACHE,TRUE,"Jonathan Stewart, Car", $2.00 , $16.60 , $9.00 
+WR,"Dez Bryant, Dal WR",Draft,THE STACHE (4-9),THE STACHE,FALSE,"Dez Bryant, Dal", $32.00 , $43.10 , $38.00 
+WR,"Jordy Nelson, GB WR",Draft,THE STACHE (4-9),THE STACHE,FALSE,"Jordy Nelson, GB", $23.00 , $38.30 , $31.00 
+TE,"Greg Olsen, Car TE",Draft,THE STACHE (4-9),THE STACHE,FALSE,"Greg Olsen, Car", $7.00 , $8.50 , $8.00 
+FLEX,"Emmanuel Sanders, Den WR",Draft,THE STACHE (4-9),THE STACHE,FALSE,"Emmanuel Sanders, Den", $21.00 , $25.80 , $23.00 
+D/ST,Dolphins D/ST D/ST,Free Agency,THE STACHE (4-9),THE STACHE,TRUE,Dolphins D/ST, $-   , $1.40 , $1.00 
+K,"Stephen Gostkowski, NE K",Draft,THE STACHE (4-9),THE STACHE,FALSE,"Stephen Gostkowski,", $2.00 , $1.00 , $2.00 
+Bench,"Doug Martin, TB RB",Draft,THE STACHE (4-9),THE STACHE,FALSE,"Doug Martin, TB", $39.00 , $3.30 , $21.00 
+Bench,"Tony Romo, Dal QB",Draft,THE STACHE (4-9),THE STACHE,FALSE,"Tony Romo, Dal", $6.00 , $4.50 , $5.00 
+Bench,"DeAngelo Williams, Pit RB",Draft,THE STACHE (4-9),THE STACHE,FALSE,"DeAngelo Williams, Pit", $3.00 , $1.40 , $2.00 
+Bench,"Antonio Gates, SD TE",Free Agency,THE STACHE (4-9),THE STACHE,TRUE,"Antonio Gates, SD", $7.00 , $3.30 , $5.00 
+Bench,"Andre Williams, NYG RB",Free Agency,THE STACHE (4-9),THE STACHE,TRUE,"Andre Williams, NYG", $9.00 , $1.30 , $5.00 
+Bench,"Reggie Wayne, Ind WR",Free Agency,THE STACHE (4-9),THE STACHE,TRUE,"Reggie Wayne, Ind", $1.00 , $1.00 , $1.00 
+IR,"Victor Cruz, NYG WR",Draft,THE STACHE (4-9),THE STACHE,FALSE,"Victor Cruz, NYG", $13.00 , $2.30 , $8.00 
+IR,,,THE STACHE (4-9),THE STACHE,FALSE,,  , $1.00 , $1.00 
+QB,"Andrew Luck, Ind QB",Draft,Ron Mexico's Sexual Exploits (6-7),Ron Mexico's Sexual Exploits,FALSE,"Andrew Luck, Ind", $17.00 , $34.50 , $26.00 
+RB,"Arian Foster, Hou RB",Draft,Ron Mexico's Sexual Exploits (6-7),Ron Mexico's Sexual Exploits,FALSE,"Arian Foster, Hou", $57.00 , $48.10 , $53.00 
+RB,"Justin Forsett, Bal RB",Free Agency,Ron Mexico's Sexual Exploits (6-7),Ron Mexico's Sexual Exploits,TRUE,"Justin Forsett, Bal", $10.00 , $23.00 , $17.00 
+WR,"Alshon Jeffery, Chi WR",Draft,Ron Mexico's Sexual Exploits (6-7),Ron Mexico's Sexual Exploits,FALSE,"Alshon Jeffery, Chi", $16.00 , $31.40 , $24.00 
+WR,"Mike Evans, TB WR",Free Agency,Ron Mexico's Sexual Exploits (6-7),Ron Mexico's Sexual Exploits,TRUE,"Mike Evans, TB", $1.00 , $26.90 , $14.00 
+TE,"Dwayne Allen, Ind TE",Free Agency,Ron Mexico's Sexual Exploits (6-7),Ron Mexico's Sexual Exploits,TRUE,"Dwayne Allen, Ind", $1.00 , $1.60 , $1.00 
+FLEX,"DeMarco Murray, Phi RB",Draft,Ron Mexico's Sexual Exploits (6-7),Ron Mexico's Sexual Exploits,FALSE,"DeMarco Murray, Phi", $31.00 , $45.70 , $38.00 
+D/ST,Patriots D/ST D/ST,Free Agency,Ron Mexico's Sexual Exploits (6-7),Ron Mexico's Sexual Exploits,TRUE,Patriots D/ST, $-   , $1.40 , $1.00 
+K,"Adam Vinatieri, Ind K",Free Agency,Ron Mexico's Sexual Exploits (6-7),Ron Mexico's Sexual Exploits,TRUE,"Adam Vinatieri, Ind", $3.00 , $2.10 , $3.00 
+Bench,"Darren Sproles, Phi RB",Draft,Ron Mexico's Sexual Exploits (6-7),Ron Mexico's Sexual Exploits,FALSE,"Darren Sproles, Phi", $3.00 , $1.10 , $2.00 
+Bench,"T.Y. Hilton, Ind WR",Trade,Ron Mexico's Sexual Exploits (6-7),Ron Mexico's Sexual Exploits,FALSE,"T.Y. Hilton, Ind", $9.00 , $30.20 , $20.00 
+Bench,"Ryan Tannehill, Mia QB",Free Agency,Ron Mexico's Sexual Exploits (6-7),Ron Mexico's Sexual Exploits,TRUE,"Ryan Tannehill, Mia", $-   , $2.00 , $1.00 
+Bench,"Alfred Blue, Hou RB",Free Agency,Ron Mexico's Sexual Exploits (6-7),Ron Mexico's Sexual Exploits,TRUE,"Alfred Blue, Hou", $3.00 , $-   , $2.00 
+Bench,"Coby Fleener, Ind TE",Trade,Ron Mexico's Sexual Exploits (6-7),Ron Mexico's Sexual Exploits,TRUE,"Coby Fleener, Ind", $-   , $-   , $-   
+Bench,"Michael Floyd, Ari WR",Free Agency,Ron Mexico's Sexual Exploits (6-7),Ron Mexico's Sexual Exploits,TRUE,"Michael Floyd, Ari", $-   , $2.80 , $1.00 
+IR,,,Ron Mexico's Sexual Exploits (6-7),Ron Mexico's Sexual Exploits,FALSE,,  , $1.00 , $1.00 
+QB,"Aaron Rodgers, GB QB",Draft,CARNEGIE'S CRONIES (8-5),CARNEGIE'S CRONIES,FALSE,"Aaron Rodgers, GB", $52.00 , $39.00 , $46.00 
+RB,"Marshawn Lynch, Sea RB",Draft,CARNEGIE'S CRONIES (8-5),CARNEGIE'S CRONIES,FALSE,"Marshawn Lynch, Sea", $43.00 , $52.80 , $48.00 
+RB,"Le'Veon Bell, Pit RB",Draft,CARNEGIE'S CRONIES (8-5),CARNEGIE'S CRONIES,FALSE,"Le'Veon Bell, Pit", $21.00 , $52.40 , $37.00 
+WR,"Dwayne Bowe, Cle WR",Draft,CARNEGIE'S CRONIES (8-5),CARNEGIE'S CRONIES,FALSE,"Dwayne Bowe, Cle", $3.00 , $1.00 , $2.00 
+TE,"Kyle Rudolph, Min TE",Draft,CARNEGIE'S CRONIES (8-5),CARNEGIE'S CRONIES,FALSE,"Kyle Rudolph, Min", $8.00 , $-   , $4.00 
+FLEX,"Anquan Boldin, SF WR",Draft,CARNEGIE'S CRONIES (8-5),CARNEGIE'S CRONIES,FALSE,"Anquan Boldin, SF", $3.00 , $1.30 , $2.00 
+Bench,"Reggie Bush, SF RB",Draft,CARNEGIE'S CRONIES (8-5),CARNEGIE'S CRONIES,FALSE,"Reggie Bush, SF", $22.00 , $1.20 , $12.00 
+Bench,"Cordarrelle Patterson, Min WR",Draft,CARNEGIE'S CRONIES (8-5),CARNEGIE'S CRONIES,FALSE,"Cordarrelle Patterson, Min", $5.00 , $1.00 , $3.00 
+Bench,"Ryan Mathews, Phi RB",Draft,CARNEGIE'S CRONIES (8-5),CARNEGIE'S CRONIES,FALSE,"Ryan Mathews, Phi", $17.00 , $3.40 , $10.00 
+Bench,"Keenan Allen, SD WR",Free Agency,CARNEGIE'S CRONIES (8-5),CARNEGIE'S CRONIES,TRUE,"Keenan Allen, SD", $3.00 , $11.80 , $7.00 
+Bench,"Andre Johnson, Ind WR",Free Agency,CARNEGIE'S CRONIES (8-5),CARNEGIE'S CRONIES,FALSE,"Andre Johnson, Ind", $20.00 , $11.20 , $16.00 
+Bench,"Knowshon Moreno, Mia RB",Free Agency,CARNEGIE'S CRONIES (8-5),CARNEGIE'S CRONIES,FALSE,"Knowshon Moreno, Mia", $4.00 , $1.00 , $3.00 
+Bench,"Pierre Garcon, Wsh WR",Free Agency,CARNEGIE'S CRONIES (8-5),CARNEGIE'S CRONIES,FALSE,"Pierre Garcon, Wsh", $16.00 , $-   , $8.00 
+Bench,"Justin Blackmon, Jac WR",Free Agency,CARNEGIE'S CRONIES (8-5),CARNEGIE'S CRONIES,FALSE,"Justin Blackmon, Jac", $-   , $1.00 , $1.00 
+Bench,"Philip Rivers, SD QB",Free Agency,CARNEGIE'S CRONIES (8-5),CARNEGIE'S CRONIES,FALSE,"Philip Rivers, SD", $7.00 , $2.00 , $5.00 
+IR,,Draft,CARNEGIE'S CRONIES (8-5),CARNEGIE'S CRONIES,FALSE,,  , $1.00 , $1.00 
+IR,,Free Agency,CARNEGIE'S CRONIES (8-5),CARNEGIE'S CRONIES,FALSE,,  , $1.00 , $1.00 
+QB,"Drew Brees, NO QB",Draft,OBAMA SPENDERS (8-5),OBAMA SPENDERS,FALSE,"Drew Brees, NO", $45.00 , $16.30 , $31.00 
+RB,"LeSean McCoy, Buf RB",Draft,OBAMA SPENDERS (8-5),OBAMA SPENDERS,FALSE,"LeSean McCoy, Buf", $49.00 , $45.00 , $47.00 
+RB,"Jeremy Hill, Cin RB",Free Agency,OBAMA SPENDERS (8-5),OBAMA SPENDERS,TRUE,"Jeremy Hill, Cin", $5.00 , $33.00 , $19.00 
+WR,"Randall Cobb, GB WR",Trade,OBAMA SPENDERS (8-5),OBAMA SPENDERS,FALSE,"Randall Cobb, GB", $17.00 , $31.50 , $24.00 
+WR,"Kenny Stills, Mia WR",Free Agency,OBAMA SPENDERS (8-5),OBAMA SPENDERS,TRUE,"Kenny Stills, Mia", $-   , $-   , $-   
+TE,"Rob Gronkowski, NE TE",Draft,OBAMA SPENDERS (8-5),OBAMA SPENDERS,FALSE,"Rob Gronkowski, NE", $21.00 , $42.00 , $32.00 
+FLEX,"Kelvin Benjamin, Car WR",Free Agency,OBAMA SPENDERS (8-5),OBAMA SPENDERS,TRUE,"Kelvin Benjamin, Car", $-   , $23.10 , $12.00 
+D/ST,Texans D/ST D/ST,Free Agency,OBAMA SPENDERS (8-5),OBAMA SPENDERS,TRUE,Texans D/ST, $-   , $3.50 , $2.00 
+K,"Steven Hauschka, Sea K",Free Agency,OBAMA SPENDERS (8-5),OBAMA SPENDERS,TRUE,"Steven Hauschka, Sea", $-   , $1.70 , $1.00 
+Bench,"Julio Jones, Atl WR",Draft,OBAMA SPENDERS (8-5),OBAMA SPENDERS,FALSE,"Julio Jones, Atl", $30.00 , $38.60 , $34.00 
+Bench,"Giovani Bernard, Cin RB",Draft,OBAMA SPENDERS (8-5),OBAMA SPENDERS,FALSE,"Giovani Bernard, Cin", $34.00 , $8.80 , $21.00 
+Bench,49ers D/ST D/ST,Draft,OBAMA SPENDERS (8-5),OBAMA SPENDERS,FALSE,49ers D/ST, $1.00 , $-   , $1.00 
+Bench,"Bishop Sankey, Ten RB",Free Agency,OBAMA SPENDERS (8-5),OBAMA SPENDERS,TRUE,"Bishop Sankey, Ten", $-   , $2.50 , $1.00 
+Bench,"Mohamed Sanu, Cin WR",Free Agency,OBAMA SPENDERS (8-5),OBAMA SPENDERS,TRUE,"Mohamed Sanu, Cin", $2.00 , $1.00 , $2.00 
+Bench,"Cam Newton, Car QB",Free Agency,OBAMA SPENDERS (8-5),OBAMA SPENDERS,TRUE,"Cam Newton, Car", $-   , $5.70 , $3.00 
+IR,,Draft,OBAMA SPENDERS (8-5),OBAMA SPENDERS,FALSE,,  , $1.00 , $1.00 
+IR,,Trade,OBAMA SPENDERS (8-5),OBAMA SPENDERS,FALSE,,  , $1.00 , $1.00 
+QB,"Peyton Manning, Den QB",Draft,DAYMAN . (9-4),DAYMAN .,FALSE,"Peyton Manning, Den", $38.00 , $21.10 , $30.00 
+RB,"Jamaal Charles, KC RB",Draft,DAYMAN . (9-4),DAYMAN .,FALSE,"Jamaal Charles, KC", $45.00 , $53.40 , $49.00 
+RB,"Chris Ivory, NYJ RB",Draft,DAYMAN . (9-4),DAYMAN .,FALSE,"Chris Ivory, NYJ", $2.00 , $4.10 , $3.00 
+WR,"Antonio Brown, Pit WR",Draft,DAYMAN . (9-4),DAYMAN .,FALSE,"Antonio Brown, Pit", $21.00 , $48.60 , $35.00 
+WR,"Odell Beckham Jr., NYG WR",Free Agency,DAYMAN . (9-4),DAYMAN .,TRUE,"Odell Beckham Jr., NYG", $-   , $42.60 , $21.00 
+TE,"Larry Donnell, NYG TE",Free Agency,DAYMAN . (9-4),DAYMAN .,TRUE,"Larry Donnell, NYG", $-   , $1.20 , $1.00 
+FLEX,"Torrey Smith, SF WR",Free Agency,DAYMAN . (9-4),DAYMAN .,TRUE,"Torrey Smith, SF", $-   , $2.30 , $1.00 
+D/ST,Bills D/ST D/ST,Free Agency,DAYMAN . (9-4),DAYMAN .,TRUE,Bills D/ST, $-   , $3.80 , $2.00 
+K,"Justin Tucker, Bal K",Free Agency,DAYMAN . (9-4),DAYMAN .,TRUE,"Justin Tucker, Bal", $2.00 , $1.30 , $2.00 
+Bench,"Adrian Peterson, Min RB",Draft,DAYMAN . (9-4),DAYMAN .,FALSE,"Adrian Peterson, Min", $60.00 , $54.90 , $57.00 
+Bench,"Martavis Bryant, Pit WR",Free Agency,DAYMAN . (9-4),DAYMAN .,TRUE,"Martavis Bryant, Pit", $1.00 , $4.10 , $3.00 
+Bench,"Brandon LaFell, NE WR",Free Agency,DAYMAN . (9-4),DAYMAN .,TRUE,"Brandon LaFell, NE", $-   , $1.00 , $1.00 
+Bench,"Jordan Matthews, Phi WR",Free Agency,DAYMAN . (9-4),DAYMAN .,TRUE,"Jordan Matthews, Phi", $-   , $15.70 , $8.00 
+Bench,"Latavius Murray, Oak RB",Free Agency,DAYMAN . (9-4),DAYMAN .,TRUE,"Latavius Murray, Oak", $4.00 , $13.30 , $9.00 
+Bench,"Kerwynn Williams, Ari RB",Free Agency,DAYMAN . (9-4),DAYMAN .,TRUE,"Kerwynn Williams, Ari", $-   , $1.00 , $1.00 
+IR,"Stevan Ridley, NYJ RB",Draft,DAYMAN . (9-4),DAYMAN .,FALSE,"Stevan Ridley, NYJ", $7.00 , $1.00 , $4.00 
+IR,"Ahmad Bradshaw, Ind RB",Free Agency,DAYMAN . (9-4),DAYMAN .,TRUE,"Ahmad Bradshaw, Ind", $6.00 , $1.00 , $4.00 
+QB,"Alex Smith, KC QB",Free Agency,RICOS BROWN STARS (3-10),RICOS BROWN STARS,TRUE,"Alex Smith, KC", $-   , $-   , $-   
+RB,"Matt Forte, Chi RB",Draft,RICOS BROWN STARS (3-10),RICOS BROWN STARS,FALSE,"Matt Forte, Chi", $43.00 , $45.60 , $44.00 
+RB,"Steven Jackson, Atl RB",Free Agency,RICOS BROWN STARS (3-10),RICOS BROWN STARS,TRUE,"Steven Jackson, Atl", $4.00 , $1.00 , $3.00 
+WR,"Eric Decker, NYJ WR",Draft,RICOS BROWN STARS (3-10),RICOS BROWN STARS,FALSE,"Eric Decker, NYJ", $6.00 , $3.70 , $5.00 
+WR,"Marques Colston, NO WR",Free Agency,RICOS BROWN STARS (3-10),RICOS BROWN STARS,TRUE,"Marques Colston, NO", $-   , $1.00 , $1.00 
+TE,"Jason Witten, Dal TE",Free Agency,RICOS BROWN STARS (3-10),RICOS BROWN STARS,TRUE,"Jason Witten, Dal", $3.00 , $3.20 , $3.00 
+FLEX,"Alfred Morris, Wsh RB",Draft,RICOS BROWN STARS (3-10),RICOS BROWN STARS,FALSE,"Alfred Morris, Wsh", $44.00 , $25.80 , $35.00 
+D/ST,Chiefs D/ST D/ST,Free Agency,RICOS BROWN STARS (3-10),RICOS BROWN STARS,TRUE,Chiefs D/ST, $1.00 , $-   , $1.00 
+K,"Caleb Sturgis, Mia K",Free Agency,RICOS BROWN STARS (3-10),RICOS BROWN STARS,TRUE,"Caleb Sturgis, Mia", $-   , $1.00 , $1.00 
+Bench,"Fred Jackson, Buf RB",Draft,RICOS BROWN STARS (3-10),RICOS BROWN STARS,FALSE,"Fred Jackson, Buf", $4.00 , $1.20 , $3.00 
+Bench,"Jay Cutler, Chi QB",Draft,RICOS BROWN STARS (3-10),RICOS BROWN STARS,FALSE,"Jay Cutler, Chi", $3.00 , $-   , $2.00 
+Bench,"Vernon Davis, SF TE",Draft,RICOS BROWN STARS (3-10),RICOS BROWN STARS,FALSE,"Vernon Davis, SF", $18.00 , $-   , $9.00 
+Bench,"Rashad Jennings, NYG RB",Draft,RICOS BROWN STARS (3-10),RICOS BROWN STARS,FALSE,"Rashad Jennings, NYG", $16.00 , $8.60 , $12.00 
+Bench,"Vincent Jackson, TB WR",Draft,RICOS BROWN STARS (3-10),RICOS BROWN STARS,FALSE,"Vincent Jackson, TB", $26.00 , $8.30 , $17.00 
+Bench,"Julian Edelman, NE WR",Draft,RICOS BROWN STARS (3-10),RICOS BROWN STARS,FALSE,"Julian Edelman, NE", $9.00 , $15.00 , $12.00 
+QB,"Matthew Stafford, Det QB",Trade,BOWE OWNERS RISE UP! (11-2),BOWE OWNERS RISE UP!,FALSE,"Matthew Stafford, Det", $25.00 , $2.80 , $14.00 
+RB,"Eddie Lacy, GB RB",Draft,BOWE OWNERS RISE UP! (11-2),BOWE OWNERS RISE UP!,FALSE,"Eddie Lacy, GB", $36.00 , $54.30 , $45.00 
+RB,"C.J. Anderson, Den RB",Free Agency,BOWE OWNERS RISE UP! (11-2),BOWE OWNERS RISE UP!,TRUE,"C.J. Anderson, Den", $-   , $45.70 , $23.00 
+WR,"A.J. Green, Cin WR",Draft,BOWE OWNERS RISE UP! (11-2),BOWE OWNERS RISE UP!,FALSE,"A.J. Green, Cin", $34.00 , $35.60 , $35.00 
+WR,"Josh Gordon, Cle WR",Draft,BOWE OWNERS RISE UP! (11-2),BOWE OWNERS RISE UP!,FALSE,"Josh Gordon, Cle", $1.00 , $1.00 , $1.00 
+TE,"Jimmy Graham, Sea TE",Draft,BOWE OWNERS RISE UP! (11-2),BOWE OWNERS RISE UP!,FALSE,"Jimmy Graham, Sea", $34.00 , $25.80 , $30.00 
+FLEX,"Golden Tate, Det WR",Draft,BOWE OWNERS RISE UP! (11-2),BOWE OWNERS RISE UP!,FALSE,"Golden Tate, Det", $7.00 , $8.40 , $8.00 
+D/ST, ,,BOWE OWNERS RISE UP! (11-2),BOWE OWNERS RISE UP!,FALSE,,  , $1.00 , $1.00 
+K, ,,BOWE OWNERS RISE UP! (11-2),BOWE OWNERS RISE UP!,FALSE,,  , $1.00 , $1.00 
+Bench,"Carlos Hyde, SF RB",Draft,BOWE OWNERS RISE UP! (11-2),BOWE OWNERS RISE UP!,FALSE,"Carlos Hyde, SF", $5.00 , $21.20 , $13.00 
+Bench,"Isaiah Crowell, Cle RB",Free Agency,BOWE OWNERS RISE UP! (11-2),BOWE OWNERS RISE UP!,TRUE,"Isaiah Crowell, Cle", $-   , $5.90 , $3.00 
+Bench,"Daniel Herron, Ind RB",Free Agency,BOWE OWNERS RISE UP! (11-2),BOWE OWNERS RISE UP!,TRUE,"Daniel Herron, Ind", $-   , $1.00 , $1.00 
+Bench,"C.J. Spiller, NO RB",Free Agency,BOWE OWNERS RISE UP! (11-2),BOWE OWNERS RISE UP!,TRUE,"C.J. Spiller, NO", $-   , $8.80 , $4.00 
+Bench,"Donte Moncrief, Ind WR",Free Agency,BOWE OWNERS RISE UP! (11-2),BOWE OWNERS RISE UP!,TRUE,"Donte Moncrief, Ind", $-   , $1.10 , $1.00 
+Bench,"Jarvis Landry, Mia WR",Free Agency,BOWE OWNERS RISE UP! (11-2),BOWE OWNERS RISE UP!,TRUE,"Jarvis Landry, Mia", $-   , $4.90 , $2.00 
+Bench,"Jerick McKinnon, Min RB",Free Agency,BOWE OWNERS RISE UP! (11-2),BOWE OWNERS RISE UP!,TRUE,"Jerick McKinnon, Min", $4.00 , $1.10 , $3.00 
+Bench,"Joseph Randle, Dal RB",Free Agency,BOWE OWNERS RISE UP! (11-2),BOWE OWNERS RISE UP!,FALSE,"Joseph Randle, Dal", $-   , $9.80 , $5.00 
+IR,"Andre Ellington, Ari RB",Draft,BOWE OWNERS RISE UP! (11-2),BOWE OWNERS RISE UP!,FALSE,"Andre Ellington, Ari", $8.00 , $11.40 , $10.00 
+IR,"Johnny Manziel, Cle QB",Free Agency,BOWE OWNERS RISE UP! (11-2),BOWE OWNERS RISE UP!,TRUE,"Johnny Manziel, Cle", $-   , $1.00 , $1.00 
+QB,"Russell Wilson, Sea QB",Draft,EL CUNADO (7-6),EL CUNADO,FALSE,"Russell Wilson, Sea", $8.00 , $20.70 , $14.00 
+RB,"Lamar Miller, Mia RB",Draft,EL CUNADO (7-6),EL CUNADO,FALSE,"Lamar Miller, Mia", $11.00 , $23.60 , $17.00 
+RB,"Matt Asiata, Min RB",Free Agency,EL CUNADO (7-6),EL CUNADO,TRUE,"Matt Asiata, Min", $-   , $1.00 , $1.00 
+WR,"Demaryius Thomas, Den WR",Draft,EL CUNADO (7-6),EL CUNADO,FALSE,"Demaryius Thomas, Den", $40.00 , $43.30 , $42.00 
+WR,"Doug Baldwin, Sea WR",Free Agency,EL CUNADO (7-6),EL CUNADO,FALSE,"Doug Baldwin, Sea", $-   , $-   , $-   
+TE,"Julius Thomas, Jac TE",Draft,EL CUNADO (7-6),EL CUNADO,FALSE,"Julius Thomas, Jac", $13.00 , $5.20 , $9.00 
+FLEX,"Chris Johnson, NYJ RB",Free Agency,EL CUNADO (7-6),EL CUNADO,TRUE,"Chris Johnson, NYJ", $3.00 , $1.00 , $2.00 
+D/ST,Eagles D/ST D/ST,Free Agency,EL CUNADO (7-6),EL CUNADO,TRUE,Eagles D/ST, $5.00 , $1.30 , $3.00 
+K,"Cody Parkey, Phi K",Free Agency,EL CUNADO (7-6),EL CUNADO,TRUE,"Cody Parkey, Phi", $3.00 , $1.20 , $2.00 
+Bench,"Percy Harvin, Buf WR",Draft,EL CUNADO (7-6),EL CUNADO,FALSE,"Percy Harvin, Buf", $15.00 , $1.30 , $8.00 
+Bench,"Colin Kaepernick, SF QB",Draft,EL CUNADO (7-6),EL CUNADO,FALSE,"Colin Kaepernick, SF", $15.00 , $1.40 , $8.00 
+Bench,"Martellus Bennett, Chi TE",Draft,EL CUNADO (7-6),EL CUNADO,FALSE,"Martellus Bennett, Chi", $5.00 , $5.10 , $5.00 
+Bench,"Pierre Thomas, NO RB",Draft,EL CUNADO (7-6),EL CUNADO,FALSE,"Pierre Thomas, NO", $5.00 , $1.00 , $3.00 
+Bench,Lions D/ST D/ST,Free Agency,EL CUNADO (7-6),EL CUNADO,TRUE,Lions D/ST, $-   , $1.10 , $1.00 
+Bench,"Ray Rice, FA RB",Free Agency,EL CUNADO (7-6),EL CUNADO,TRUE,"Ray Rice, FA", $10.00 , $1.00 , $6.00 
+IR,"Brandon Marshall, NYJ WR",Draft,EL CUNADO (7-6),EL CUNADO,FALSE,"Brandon Marshall, NYJ", $33.00 , $8.50 , $21.00 
+IR,"Denard Robinson, Jac RB",Trade,EL CUNADO (7-6),EL CUNADO,TRUE,"Denard Robinson, Jac", $1.00 , $1.10 , $1.00 
+QB,"Matt Ryan, Atl QB",Draft,CHEECH HARVIN'S BLUNTS (7-6),CHEECH HARVIN'S BLUNTS,FALSE,"Matt Ryan, Atl", $11.00 , $5.20 , $8.00 
+RB,"Khiry Robinson, NO RB",Free Agency,CHEECH HARVIN'S BLUNTS (7-6),CHEECH HARVIN'S BLUNTS,TRUE,"Khiry Robinson, NO", $3.00 , $1.00 , $2.00 
+RB,"Benjamin Cunningham, StL RB",Free Agency,CHEECH HARVIN'S BLUNTS (7-6),CHEECH HARVIN'S BLUNTS,TRUE,"Benjamin Cunningham, StL", $-   , $1.00 , $1.00 
+WR,"Jeremy Maclin, KC WR",Draft,CHEECH HARVIN'S BLUNTS (7-6),CHEECH HARVIN'S BLUNTS,FALSE,"Jeremy Maclin, KC", $5.00 , $6.70 , $6.00 
+WR,"Roddy White, Atl WR",Draft,CHEECH HARVIN'S BLUNTS (7-6),CHEECH HARVIN'S BLUNTS,FALSE,"Roddy White, Atl", $20.00 , $3.10 , $12.00 
+TE,"Travis Kelce, KC TE",Free Agency,CHEECH HARVIN'S BLUNTS (7-6),CHEECH HARVIN'S BLUNTS,TRUE,"Travis Kelce, KC", $2.00 , $6.50 , $4.00 
+FLEX,"Calvin Johnson, Det WR",Draft,CHEECH HARVIN'S BLUNTS (7-6),CHEECH HARVIN'S BLUNTS,FALSE,"Calvin Johnson, Det", $47.00 , $38.70 , $43.00 
+D/ST,Seahawks D/ST D/ST,Draft,CHEECH HARVIN'S BLUNTS (7-6),CHEECH HARVIN'S BLUNTS,FALSE,Seahawks D/ST, $5.00 , $6.80 , $6.00 
+K,"Matt Bryant, Atl K",Free Agency,CHEECH HARVIN'S BLUNTS (7-6),CHEECH HARVIN'S BLUNTS,TRUE,"Matt Bryant, Atl", $-   , $1.00 , $1.00 
+Bench,"DeSean Jackson, Wsh WR",Draft,CHEECH HARVIN'S BLUNTS (7-6),CHEECH HARVIN'S BLUNTS,FALSE,"DeSean Jackson, Wsh", $15.00 , $11.10 , $13.00 
+Bench,"Eli Manning, NYG QB",Free Agency,CHEECH HARVIN'S BLUNTS (7-6),CHEECH HARVIN'S BLUNTS,TRUE,"Eli Manning, NYG", $1.00 , $2.00 , $2.00 
+Bench,"Jared Cook, StL TE",Free Agency,CHEECH HARVIN'S BLUNTS (7-6),CHEECH HARVIN'S BLUNTS,TRUE,"Jared Cook, StL", $-   , $1.00 , $1.00 
+Bench,"Larry Fitzgerald, Ari WR",Free Agency,CHEECH HARVIN'S BLUNTS (7-6),CHEECH HARVIN'S BLUNTS,TRUE,"Larry Fitzgerald, Ari", $2.00 , $2.60 , $2.00 
+Bench,"Charles Johnson, Min WR",Free Agency,CHEECH HARVIN'S BLUNTS (7-6),CHEECH HARVIN'S BLUNTS,TRUE,"Charles Johnson, Min", $-   , $1.40 , $1.00 
+Bench,"Joe Banyard, Min RB",Free Agency,CHEECH HARVIN'S BLUNTS (7-6),CHEECH HARVIN'S BLUNTS,TRUE,"Joe Banyard, Min", $-   , $1.00 , $1.00 
+IR,"Montee Ball, Den RB",Draft,CHEECH HARVIN'S BLUNTS (7-6),CHEECH HARVIN'S BLUNTS,FALSE,"Montee Ball, Den", $16.00 , $1.50 , $9.00 
+IR,"Bobby Rainey, TB RB",Free Agency,CHEECH HARVIN'S BLUNTS (7-6),CHEECH HARVIN'S BLUNTS,TRUE,"Bobby Rainey, TB", $-   , $1.00 , $1.00 
