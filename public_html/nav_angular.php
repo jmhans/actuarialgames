@@ -44,7 +44,10 @@ function echoActiveClassIfRequestMatches($requestUri)
 			<a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expandied="false">Fantasy<span class="caret"></a>
 			<ul class="dropdown-menu">
 				<li><a href="#/ffb/mmq">MMQ</a></li>
-				
+					<ul>
+						<li><a href="#/ffb/mmq">Constitution</a></li>
+						<li><a href="#/ffb/mmq/keepers">Keeper Costs</a></li>
+					</ul>
 				<li><a href="#/ffb/footballdex">FootballDex</a></li>
 			</ul>
 		</li>

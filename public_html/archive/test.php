@@ -20,7 +20,8 @@
 
 </head>
 <header></header>
-
+<!--Test Comment 12.18.2015-->
+<!--Test Comment #2 12.18.2015-->
 
 <nav class="navbar navbar-inverse">
 	<div id='php_nav_content' name='php_nav_content'><?php include 'nav.php'; ?></div>
