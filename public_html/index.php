@@ -24,13 +24,14 @@
     <!-- jQuery library -->
     
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-    <!-- Latest compiled JavaScript -->
+    <script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
+    
+	<!-- Latest compiled JavaScript -->
     <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 	<script type="text/javascript" src="https://www.google.com/jsapi"></script>
 	<script src="/js/jquery.csv-0.71.js"></script>
 	
-	<script src="//code.jquery.com/jquery-1.11.3.min.js"></script>
-    <script src="https://cdn.datatables.net/1.10.10/js/jquery.dataTables.min.js"></script>
+	<script src="https://cdn.datatables.net/1.10.10/js/jquery.dataTables.min.js"></script>
     <script src="https://cdn.datatables.net/1.10.10/js/dataTables.bootstrap.min.js"></script>
     <script src="https://cdn.datatables.net/responsive/2.0.0/js/dataTables.responsive.min.js"></script>
     <script src="https://cdn.datatables.net/responsive/2.0.0/js/responsive.bootstrap.min.js"></script>

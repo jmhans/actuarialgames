@@ -151,12 +151,6 @@ function startup(){
 }
 
 
-window.onload = function() {
-  startup();
-
-};
-
-
 
 
 

@@ -21,7 +21,7 @@
 
 
 <nav class="navbar navbar-inverse">
-	<div id='php_nav_content' name='php_nav_content'><?php include 'nav.php'; ?></div>
+	<div id='php_nav_content' name='php_nav_content'><?php include 'nav_angular.php'; ?></div>
 </nav>
 <body>
 
